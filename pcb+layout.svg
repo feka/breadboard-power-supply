@@ -218,7 +218,7 @@
      inkscape:cx="91.255528"
      inkscape:cy="35.467468"
      inkscape:document-units="mm"
-     inkscape:current-layer="g3113"
+     inkscape:current-layer="g4090"
      showgrid="true"
      units="mm"
      objecttolerance="5"
@@ -779,19 +779,19 @@
        inkscape:transform-center-y="-27.216216" />
     <text
        xml:space="preserve"
-       style="font-size:7.6760087px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.30220509;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;font-family:Courier New;-inkscape-font-specification:Courier New Bold"
-       x="-135.1526"
-       y="-128.74329"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.30220509;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;font-family:Courier New;-inkscape-font-specification:Courier New"
+       x="69.603394"
+       y="135.06535"
        id="text4244"
        sodipodi:linespacing="125%"
-       transform="scale(-0.98042464,-1.0199662)"
-       inkscape:transform-center-x="-14.810543"
-       inkscape:transform-center-y="19.873031"><tspan
+       transform="scale(0.98042464,1.0199662)"
+       inkscape:transform-center-x="14.810546"
+       inkscape:transform-center-y="-19.87303"><tspan
          sodipodi:role="line"
          id="tspan4246"
-         x="-135.1526"
-         y="-128.74329"
-         style="font-size:7.6760087px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;stroke-width:0.30220509;font-family:Courier New;-inkscape-font-specification:Courier New Bold">hsbp.org/kits</tspan></text>
+         x="69.603394"
+         y="135.06535"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;stroke-width:0.30220509;font-family:Courier New;-inkscape-font-specification:Courier New">hsbp.org/kits</tspan></text>
     <g
        id="g3896"
        transform="matrix(-1,0,0,-1,58.288794,186.39823)"
