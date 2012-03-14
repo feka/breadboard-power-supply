@@ -214,9 +214,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.6845674"
-     inkscape:cx="91.255528"
-     inkscape:cy="35.467468"
+     inkscape:zoom="5.9909572"
+     inkscape:cx="80.649597"
+     inkscape:cy="31.155422"
      inkscape:document-units="mm"
      inkscape:current-layer="g4090"
      showgrid="true"
@@ -224,8 +224,8 @@
      objecttolerance="5"
      showguides="true"
      inkscape:guide-bbox="true"
-     guidetolerance="20"
-     gridtolerance="10000"
+     guidetolerance="10000"
+     gridtolerance="6"
      inkscape:window-width="1024"
      inkscape:window-height="575"
      inkscape:window-x="0"
@@ -264,7 +264,7 @@
   </metadata>
   <g
      transform="translate(0,-77.952787)"
-     style="display:none"
+     style="display:inline"
      inkscape:label="component-bottom"
      id="g3113"
      inkscape:groupmode="layer">
@@ -759,7 +759,7 @@
        inkscape:transform-center-y="0.178807" />
     <path
        style="fill:none;stroke:#ffffff;stroke-width:2.83464575;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 160.7749,119.87097 -22.59027,0.24653 0.0347,-28.718746 -117.324876,-0.06504 0.15854,57.898356"
+       d="m 159.67851,120.1114 -21.49388,0.006 0.0347,-28.718746 -117.324876,-0.06504 0.15854,57.898356"
        id="path3161"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc"
