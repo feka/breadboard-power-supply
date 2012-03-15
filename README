@@ -3,3 +3,7 @@ voltage can be set with high precison.
 
 Best used with projects that draw low currents since the only way of
 heat dissipation is the enlarged size of some tracks on the PCB.
+
+Usage:
+Mirror it, print it, iron it to the board, then start etching the pcb
+with your favourite method.
